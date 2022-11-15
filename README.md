@@ -9,7 +9,7 @@ Favicon https://favicon.io/
 Click on a prodcut to enable its quick view picture and more information
 
 ## Why the project is useful
-Gained experience using CSS Grid and a new JavaScript feature
+Thousands of websites exist to help businesses sell their products online. It's important to have features that allow businesses to grow and make this happen.
 
 ## Steps:
 - Step 1: Ran IDE Visual Studio Code with its built-in command line to create 1 folder containing 2 files index.html and style.css 
